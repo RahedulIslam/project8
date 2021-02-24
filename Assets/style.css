@@ -1,0 +1,36 @@
+.variant{
+ transition: 2s;;
+}
+.variant:hover{
+     
+  transform:translateY(50px);
+}
+
+.variants{
+        transition: 2s;;
+}
+.variants:hover{
+            
+         transform:rotate(180deg);
+}
+.variantz{
+    transition: 2s;;
+}
+.variantz:hover{
+        
+    transform:translateY(50px);
+}
+.variantx{
+    transition: 2s;;
+}
+.variantx:hover{
+        
+    transform:translateY(50px);
+}
+.varianty{
+    transition: 2s;;
+}
+.varianty:hover{
+        
+    transform:translateX(50px);
+}
